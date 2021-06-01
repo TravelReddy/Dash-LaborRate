@@ -1,0 +1,101 @@
+Area,Dismantle Type,Employee Name,Rate,Markup,Gross Rate,Time in,Time out ,No of hours,Total Cost 
+Warehouse,CRT TV Dismantle - 5,Amber Gurung,1372,1.3,1783.6,00:00.0,00:00.0,0 days 02:00:00,109.76
+Warehouse,CRT TV Dismantle - 5,Laxmi Pohkrell,14.18,1.3,18.434,14:32.7,14:32.7,0 days 05:00:00,113.44
+Warehouse,CRT TV Dismantle - 5,Donald Keenan ,13,1.5,19.5,29:05.5,29:05.5,0 days 01:00:00,104
+Warehouse,CRT TV Dismantle - 5,Allen Snook ,13,1.5,19.5,43:38.2,43:38.2,0 days 04:00:00,104
+Warehouse,CRT TV Dismantle - 5,Dave Manuel,13,1.5,19.5,58:10.9,58:10.9,0 days 04:00:00,104
+Warehouse,CRT TV Dismantle - 5,"Rashad Wilder, stacking",13.5,1.3,17.55,12:43.6,12:43.6,0 days 05:00:00,108
+Warehouse,LCD TV Dismantle - 7,Dil Rai,13.57,1.3,17.641,27:16.4,27:16.4,0 days 03:00:00,108.56
+Warehouse,LCD TV Dismantle - 7,Sanman Thapa,13.62,1.3,17.706,41:49.1,41:49.1,0 days 05:00:00,108.96
+Warehouse,LCD TV Dismantle - 7,Troy Stephens,13.5,1.3,17.55,56:21.8,56:21.8,0 days 03:00:00,94.5
+Warehouse,LCD TV Dismantle - 7,Damien Hess,13,1.5,19.5,10:54.5,10:54.5,0 days 04:00:00,91
+Warehouse,LCD TV Dismantle - 7,Trent Chaney ,13,1.5,19.5,25:27.3,25:27.3,0 days 03:00:00,91
+Warehouse,LCD TV Dismantle - 7,Kenneth Kaester,13,1.5,19.5,40:00.0,40:00.0,0 days 06:00:00,91
+Warehouse,LCD TV Dismantle - 7,Collin Oakley ,13,1.5,19.5,54:32.7,54:32.7,0 days 06:00:00,91
+Warehouse,Standard Dismantle - 5,Deepak Gurung,13.62,1.3,17.706,09:05.5,09:05.5,0 days 05:00:00,95.34
+Warehouse,Standard Dismantle - 5,Dhan Magar,14.69,1.3,19.097,23:38.2,23:38.2,0 days 02:00:00,102.83
+Warehouse,Standard Dismantle - 5,Kul Thapa,14.03,1.3,18.239,38:10.9,38:10.9,0 days 01:00:00,98.21
+Warehouse,Standard Dismantle - 5,Harka Subba,14.18,1.3,18.434,52:43.6,52:43.6,0 days 03:00:00,99.26
+Warehouse,Standard Dismantle - 5,Padam Rai,13.5,1.3,17.55,07:16.4,07:16.4,0 days 04:00:00,94.5
+Warehouse,Sort - 4,Patrick Hart ,13,1.5,19.5,21:49.1,21:49.1,0 days 03:00:00,91
+Warehouse,Sort - 4,Jeff Bald ,13,1.5,19.5,36:21.8,36:21.8,0 days 04:00:00,91
+Warehouse,Sort - 4,John Mattison ,13,1.5,19.5,50:54.5,50:54.5,0 days 05:00:00,91
+Warehouse,Sort - 4,OPEN,13,1.5,19.5,05:27.3,05:27.3,0 days 05:00:00,91
+Warehouse,Shredder - 4,Kevin Becker,12.76,1.3,16.588,20:00.0,20:00.0,0 days 04:00:00,89.32
+Warehouse,Shredder - 4,Clevoy Clarke,13.5,1.3,17.55,34:32.7,34:32.7,0 days 05:00:00,94.5
+Warehouse,Shredder - 4,Joshua Barber,13,1.5,19.5,49:05.5,49:05.5,0 days 04:00:00,91
+Warehouse,Shredder - 4,Sammy Jones,13,1.5,19.5,03:38.2,03:38.2,0 days 05:00:00,91
+Warehouse,Forklift - 6,Sheldon Phillips,13.87,1.3,18.031,18:10.9,18:10.9,0 days 02:00:00,83.22
+Warehouse,Forklift - 6,Brian Courtright,16.47,1.3,21.411,32:43.6,32:43.6,0 days 01:00:00,98.82
+Warehouse,Forklift - 6,Albert Burch,13.97,1.3,18.161,47:16.4,47:16.4,0 days 03:00:00,83.82
+Warehouse,Forklift - 6,Darien Payne,13.75,1.3,17.875,01:49.1,01:49.1,0 days 06:00:00,82.5
+Warehouse,Forklift - 6,Allen Snook ,13,1.5,19.5,16:21.8,16:21.8,0 days 03:00:00,78
+Warehouse,Forklift - 6,Steve Austin ,13,1.5,19.5,30:54.5,30:54.5,0 days 05:00:00,78
+Warehouse,Utica Operations,Todd Nichols - Manager,24.52,1.3,31.876,45:27.3,45:27.3,0 days 02:00:00,147.12
+Warehouse,Utica Operations,Chris Green,13.75,1.3,17.875,00:00.0,00:00.0,0 days 04:00:00,82.5
+Warehouse,Utica Operations,Adam Burnor,13,1.5,19.5,14:32.7,14:32.7,0 days 04:00:00,78
+Warehouse,Utica Operations,Brandon Dickenson,13,1.5,19.5,29:05.5,29:05.5,0 days 04:00:00,78
+Warehouse,Transportation,Mike Fasano,18,1.3,23.4,43:38.2,43:38.2,0 days 02:00:00,108
+Warehouse,Transportation,Luanna Marcelletti,27.26,1.3,35.438,58:10.9,58:10.9,0 days 05:00:00,163.56
+Warehouse,Transportation,Steve Ebner,24.17,1.3,31.421,12:43.6,12:43.6,0 days 06:00:00,145.02
+Warehouse,Transportation,Kile Jobe,15.2,1.3,19.76,27:16.4,27:16.4,0 days 02:00:00,91.2
+Warehouse,Transportation,Calvin Porter,23.46,1.3,30.498,41:49.1,41:49.1,0 days 06:00:00,140.76
+Warehouse,Transportation,"Yates, Chad ",15.5,1.3,20.15,56:21.8,56:21.8,0 days 04:00:00,93
+Warehouse,Transportation,Buzz Scullins ,16,1.5,24,10:54.5,10:54.5,0 days 05:00:00,96
+Warehouse,Other Roles,Tony Davis,21.01,1.3,27.313,25:27.3,25:27.3,0 days 03:00:00,126.06
+Warehouse,Other Roles,Rich Southcott,14.23,1.3,18.499,40:00.0,40:00.0,0 days 05:00:00,85.38
+Warehouse,Other Roles,Cheryl Sherman ,13.5,1.3,17.55,54:32.7,54:32.7,0 days 02:00:00,81
+Warehouse,Other Roles,Dean Jones,14,1.3,18.2,09:05.5,09:05.5,0 days 04:00:00,84
+Warehouse,Other Roles,Richard Kelly ,13,1.5,19.5,23:38.2,23:38.2,0 days 01:00:00,78
+Warehouse,Other Roles,Matt Philippone ,13,1.5,19.5,38:10.9,38:10.9,0 days 06:00:00,78
+Warehouse,Supervisors,Tammy Maxon,20.6,1.3,26.78,52:43.6,52:43.6,0 days 04:00:00,123.6
+Warehouse,Supervisors,Jeff Boscoe,25.83,1.3,33.579,07:16.4,07:16.4,0 days 04:00:00,154.98
+Warehouse,Supervisors,Brandon Bostian ,15,1.3,19.5,21:49.1,21:49.1,0 days 04:00:00,85.5
+Warehouse,Supervisors,Jerry Kinsella ,16.5,1.3,21.45,36:21.8,36:21.8,0 days 02:00:00,94.05
+Warehouse,Commodity Belts - 2,Nanda Gurung - Oval Belt,13.67,1.3,17.771,50:54.5,50:54.5,0 days 04:00:00,77.919
+Warehouse,Commodity Belts - 2,Ricardo Torres ,13,1.5,19.5,05:27.3,05:27.3,0 days 02:00:00,74.1
+Warehouse,Debox - 1,Kelsey Mosher ,13,1.5,19.5,20:00.0,20:00.0,0 days 01:00:00,74.1
+Inventory Production,IP Manager,Robert Moore,33.74,1.3,43.862,34:32.7,34:32.7,0 days 05:00:00,192.318
+Inventory Production,Wholesale Sales,Jay Polito,28.76,1.3,37.388,49:05.5,49:05.5,0 days 04:00:00,163.932
+Inventory Production,Online Sales Tech,Will Forder,36.43,1.3,47.359,03:38.2,03:38.2,0 days 06:00:00,207.651
+Inventory Production,Online Sales Tech,David Bowen,20.06,1.3,26.078,18:10.9,18:10.9,0 days 02:00:00,114.342
+Inventory Production,Online Sales Tech,Shawn George,13.26,1.3,17.238,32:43.6,32:43.6,0 days 04:00:00,75.582
+Inventory Production,Online Sales Tech,John Heinlein ,13,1.5,19.5,47:16.4,47:16.4,0 days 03:00:00,74.1
+Inventory Production,Customer Service,Nick Castronovo,20.4,1.3,26.52,01:49.1,01:49.1,0 days 05:00:00,116.28
+Inventory Production,Shipping/Packing,Ryan Cook,13.01,1.3,16.913,16:21.8,16:21.8,0 days 05:00:00,74.157
+Inventory Production,Components,Nayyer Janjua,17.34,1.3,22.542,30:54.5,30:54.5,0 days 03:00:00,98.838
+Inventory Production,Monitor Tech,Eric Williams,13.75,1.3,17.875,45:27.3,45:27.3,0 days 02:00:00,78.375
+Inventory Production,Monitor Tech,Patrick Hart ,13,1.3,16.9,00:00.0,00:00.0,0 days 02:00:00,74.1
+Inventory Production,Mobile Tech,Mark Buckingham,15.56,1.3,20.228,14:32.7,14:32.7,0 days 06:00:00,88.692
+Inventory Production,Desktop Tech,Carlos Rivera,14.28,1.3,18.564,29:05.5,29:05.5,0 days 03:00:00,81.396
+Inventory Production,Desktop Tech,Justin Rhea,14.03,1.3,18.239,43:38.2,43:38.2,0 days 01:00:00,79.971
+Inventory Production,Laptop Processing Tech,Matt Maccio,14.28,1.3,18.564,58:10.9,58:10.9,0 days 01:00:00,81.396
+Inventory Production,Laptop Processing Tech,Tyler George,13.26,1.3,17.238,12:43.6,12:43.6,0 days 06:00:00,75.582
+Inventory Production,Laptop Processing Tech,Jame Kyle ,13,1.5,19.5,27:16.4,27:16.4,0 days 01:00:00,74.1
+Inventory Production,Laptop Processing Tech,Brad Clarkson ,13,1.5,19.5,41:49.1,41:49.1,0 days 02:00:00,74.1
+Inventory Production,Laptop Repair Tech,Frankie Trigg ,16,1.3,20.8,56:21.8,56:21.8,0 days 01:00:00,91.2
+Inventory Production,Laptop Repair Tech,Marco Montante ,15,1.5,22.5,10:54.5,10:54.5,0 days 02:00:00,85.5
+Inventory Production,TV Tech,Larry Torcello - PT 8 hours,13.77,1.3,17.901,25:27.3,25:27.3,0 days 02:00:00,78.489
+Inventory Production,Business Sort,Ryan Spencer,18.62,1.3,24.206,40:00.0,40:00.0,0 days 05:00:00,106.134
+Inventory Production,Business Sort,Juan Vega-Velez,13.5,1.3,17.55,54:32.7,54:32.7,0 days 06:00:00,76.95
+Inventory Production,Business Sort,Jason Gomez,15.05,1.3,19.565,09:05.5,09:05.5,0 days 03:00:00,85.785
+Inventory Production,Business Sort,Aaron Knopp,15,1.3,19.5,23:38.2,23:38.2,0 days 01:00:00,85.5
+Inventory Production,Ecaboose,Adam Potter ,22.95,1.3,29.835,38:10.9,38:10.9,0 days 04:00:00,114.75
+Inventory Production,Ecaboose,Barry Greenberg,15.95,1.3,20.735,52:43.6,52:43.6,0 days 04:00:00,79.75
+Inventory Production,Ecaboose,Garrett Hotchiss - PT,13.26,1.3,17.238,07:16.4,07:16.4,0 days 05:00:00,66.3
+Marketing,Marketing,Robert Burns,39.23,1.3,50.999,21:49.1,21:49.1,0 days 01:00:00,196.15
+Marketing,Marketing,Amanda Peers,24.03,1.3,31.239,36:21.8,36:21.8,0 days 04:00:00,120.15
+Administration,Administration,Amy Forder,22.57,1.3,29.341,50:54.5,50:54.5,0 days 04:00:00,112.85
+Administration,Administration,Andy Newman,25.26,1.3,32.838,05:27.3,05:27.3,0 days 01:00:00,126.3
+Administration,Administration,Dave Hemmerick,34.83,1.3,45.279,20:00.0,20:00.0,0 days 01:00:00,174.15
+Administration,Administration,Matt Carpenter ,23.44,1.3,30.472,34:32.7,34:32.7,0 days 04:00:00,117.2
+Administration,Administration,Michelle Read,37.6,1.3,48.88,49:05.5,49:05.5,0 days 06:00:00,188
+Administration,Administration,Duane Beckett,38.75,1.3,50.375,03:38.2,03:38.2,0 days 06:00:00,193.75
+Administration,Administration,Adam Shine,57.7,1.3,75.01,18:10.9,18:10.9,0 days 04:00:00,173.1
+Administration,Administration,Delcina Cassidy,13.5,1.5,20.25,32:43.6,32:43.6,0 days 03:00:00,40.5
+Administration,Administration,Phil Bove,36.38,1.3,47.294,47:16.4,47:16.4,0 days 04:00:00,109.14
+Administration,Administration,Christina Nelson,34.36,1.3,44.668,01:49.1,01:49.1,0 days 04:00:00,103.08
+Administration,Administration,Cindy Jessop,50.27,1.3,65.351,16:21.8,16:21.8,0 days 05:00:00,150.81
+Administration,Administration,James Morrell,27.04,1.3,35.152,30:54.5,30:54.5,0 days 03:00:00,81.12
+Administration,Administration,Fred Parody,35,1.3,45.5,45:27.3,45:27.3,0 days 05:00:00,105
+Administration,Administration,Mike Fasano,18,1.3,23.4,00:00.0,00:00.0,0 days 01:00:00,54
